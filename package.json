@@ -1,0 +1,28 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betulcerenyetiz/cleanblog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betulcerenyetiz/cleanblog/issues"
+  },
+  "homepage": "https://github.com/betulcerenyetiz/cleanblog#readme",
+  "type":"module",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
