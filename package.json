@@ -18,8 +18,9 @@
     "url": "https://github.com/betulcerenyetiz/cleanblog/issues"
   },
   "homepage": "https://github.com/betulcerenyetiz/cleanblog#readme",
-  "type":"module",
+  "type": "module",
   "dependencies": {
+    "ejs": "^3.1.8",
     "express": "^4.18.2"
   },
   "devDependencies": {
